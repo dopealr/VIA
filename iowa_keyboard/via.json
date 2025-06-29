@@ -1,0 +1,15 @@
+{
+  "name": "writerbenjamin/marspadpe",
+  "vendorId": "0x3434",
+  "productId": "0x0420",
+  "matrix": {
+    "rows": 2,
+    "cols": 2
+  },
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1"],
+      ["1,0", "1,1"]
+    ]
+  }
+}
